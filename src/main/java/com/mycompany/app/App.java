@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello World! Surote";
+zsh:1: command not found: :wq
 
     public App() {}
 
